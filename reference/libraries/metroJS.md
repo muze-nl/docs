@@ -115,4 +115,3 @@ async function myMiddleware(req,next) {
 Both request and response have a `with` function. This allows you to create a new request or response, from 
 the existing one, with one or more options added or changed. The original request or response is not changed.
 
-[Read more about middleware](docs/middleware/)
