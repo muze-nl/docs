@@ -1,6 +1,6 @@
 # jaqt: javascript queries and transformations
 
-jaqt (pronounced 'jacket') is a Javascript livrary containing a query engine for arrays and objects, inspired by graphql and sql. 
+jaqt (pronounced 'jacket') is a Javascript library containing a query engine for arrays and objects, inspired by graphql and sql. 
 
 **Example jaqt query, and result:**
 <table>

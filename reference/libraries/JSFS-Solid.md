@@ -1,6 +1,6 @@
 # JSFS-Solid: a jsfs solid client
 
-JSFS-Solid is a Javascript library offering c client to access Solid pods through a filesystem-like interface.
+JSFS-Solid is a Javascript library offering client to access Solid pods through a filesystem-like interface.
 
 **Example:**
 ```javascript
