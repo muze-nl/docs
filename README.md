@@ -8,6 +8,11 @@ Instead, this project is at the stage of attracting interest from developers, so
 
 The secondary audience of this documentation are people who are interested in Solid and the technologies which surround it, but perhaps are not going to be developing applications themselves. Here we hope that this audience will find enough information to clearly understand what is involved, without having to learn every detail which lies beneath.
 
+## How This Documentation Works
+
+At Muze, we are endeavouring to follow the [Diátaxis](https://diataxis.fr/) documentation methodology. This structures technical documentation around the four themes of tutorials, how-to guides, technical reference and explanation.
+
+
 ## The Philosphy Behind The Muze Library Structure
 
 The Muze javascript libraries are a collection of single purpose software components that follow a Javascript equivalent of the UNIX philosophy of small programs that do one thing, and do it well.
