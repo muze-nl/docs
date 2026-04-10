@@ -2,7 +2,7 @@
 
 JSFS-Solid is a Javascript library offering client to access Solid pods through a filesystem-like interface. In this tutorial we will take the reader through basic usage of JSFS-Solid, covering first simple access to a pod, and then working with protected resources.
 
-# Getting Started with the JSFS-Solid Client
+## Getting Started with the JSFS-Solid Client
 
 In this section we will cover basic set-up of a JSFS-Solid client, connect to a public pod resource, and list its contents.
     
