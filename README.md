@@ -25,6 +25,3 @@ Muze will not cross one of those boundaries within a single library. As an examp
 
 Thus if there is an established solution in the browser which is designed to cross one of the web’s boundaries, the libraries will use that even if it’s not the prefereed solution. This ensures that constant alignment is maintained with the direction of the web as a whole. In short, if something is built into the browser it will not be reimplemented.
 
-
-
-
